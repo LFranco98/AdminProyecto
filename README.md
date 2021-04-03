@@ -50,7 +50,7 @@ Para correr el proyecto se utiliza el comando "npm run dev"
 Para iniciar el servicio mongoDB usar los comandos
 
 Windows = "mongod", seguir este tutorial para instalar correctamente mongoDB 
-Tutorial: https://qastack.mx/programming/20796714/how-do-i-start-mongo-db-from-windows
+Tutorial: https://www.youtube.com/watch?v=2KMQdqDk9e8&ab_channel=Fazt
 
 Linux = "sudo service mongod start" 
 

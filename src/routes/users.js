@@ -1,15 +1,15 @@
 // Urls donde se puede autenticar
 
 const express = require('express');
-const { route } = require('.');
 const router = express.Router();
 
 router.get('/users/singin', (req, res) =>{
-    res.send('Ingresando a la app');
+    res.render('users/singin');
 });
 
 router.get('/users/singup', (req, res) =>{
-    res.send("Formulario de autenticacion");
+    res.render('users/singup');
 });
 
 module.exports = router;
+
