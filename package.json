@@ -1,0 +1,20 @@
+{
+  "name": "AdminProyecto",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de agenda para el curso de Administración y Tecnología",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LFranco98/AdminProyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LFranco98/AdminProyecto/issues"
+  },
+  "homepage": "https://github.com/LFranco98/AdminProyecto#readme"
+}
