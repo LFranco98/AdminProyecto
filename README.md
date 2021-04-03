@@ -46,3 +46,12 @@ config -> variables de configuracion del entorno, mi archivo database.js, como e
 *				Funcionalidad					*
 
 Para correr el proyecto se utiliza el comando "npm run dev"
+
+Para iniciar el servicio mongoDB usar los comandos
+
+Windows = "mongod", seguir este tutorial para instalar correctamente mongoDB 
+Tutorial: https://qastack.mx/programming/20796714/how-do-i-start-mongo-db-from-windows
+
+Linux = "sudo service mongod start" 
+
+Tutorial: https://stackoverflow.com/questions/48092353/failed-to-start-mongod-service-unit-mongod-service-not-found
